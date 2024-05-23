@@ -1,5 +1,8 @@
 _repo: New-Nick-Carter-weekly-No-11-March-13-1897-Trim-in-the-wilds-or-hunting-a-criminal-on-the-dar__73636
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73636-h/images/cover.jpg
 creator:
   author:
     agent_name: Carter, Nicholas (House name)
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '57159'
     url: http://www.gutenberg.org/2009/agents/57159
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73636#New-Nick-Carter-weekly-No-11-March-13-1897-Trim-in-the-wilds-or-hunting-a-criminal-on-the-dar_
 gutenberg_issued: '2024-05-15'
 gutenberg_type: Text
 identifiers:
